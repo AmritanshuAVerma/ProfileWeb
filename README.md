@@ -1,7 +1,7 @@
-# AmritanshuVerma
+# Amritanshu Verma
 
 ### I.T Engineer By Degree and Software Engineer by Profession.
-### I spend my time researching,reading and learning about Softwares and Business Domains.
+### I spend my time researching, reading and learning about Softwares and Business Domains.
 
 Previously worked for Companies such as _Infinx Services_ and _Xanthus Software Soutions_ as Software Engineer and Software Developer respectively.
 
